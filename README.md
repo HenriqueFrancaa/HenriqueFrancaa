@@ -1,4 +1,7 @@
-Opa, Sou Henrique Franca!
+<head><i><h3>
+  Oii, sou Henrique Franca
+</h3></i></head>
+<p>
 
 Sou um estudante de Ciência da Computação e essa é minha página, aqui sempre procuro postar minha evolução nas diferentes linguagens!
 
