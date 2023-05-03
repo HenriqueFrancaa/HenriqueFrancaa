@@ -4,6 +4,8 @@
   <a href="https://github.com/HenriqueFrancaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFrancaa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFrancaa&layout=compact&langs_count=16&theme=transparent"/>
+  
+  <div style="display: inline_block"><br>
     
 <img align="center" alt="HenriqueFrancaa_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="HenriqueFrancaa_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
