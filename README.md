@@ -13,7 +13,7 @@ Sou um estudante de Ciência da Computação e essa é minha página, aqui sempr
   
   <div style="display: inline_block"><br>
 <head><i><h3>
-  Linguagens utilizadas
+  Linguagens utilizadas 🧠🧠
 </h3></i></head>
 <p>
     
@@ -21,7 +21,7 @@ Sou um estudante de Ciência da Computação e essa é minha página, aqui sempr
 <img align="center" alt="HenriqueFrancaa_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
 <head><i><h3>
-  Ferramentas utilizadas
+  Ferramentas utilizadas 🛠️🛠
 </h3></i></head>
 <p>
 
