@@ -12,10 +12,21 @@ Sou um estudante de Ciência da Computação e essa é minha página, aqui sempr
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFrancaa&layout=compact&langs_count=16&theme=transparent"/>
   
   <div style="display: inline_block"><br>
+<head><i><h3>
+  Linguagens utilizadas
+</h3></i></head>
+<p>
     
 <img align="center" alt="HenriqueFrancaa_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="HenriqueFrancaa_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
+<head><i><h3>
+  Ferramentas utilizaddas
+</h3></i></head>
+<p>
+
+<img align="center" alt="HenriqueFrancaa_vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="HenriqueFrancaa_vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 
 </div>
 <div>
