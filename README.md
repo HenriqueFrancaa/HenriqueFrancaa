@@ -19,6 +19,7 @@ Sou um estudante de Ciência da Computação e essa é minha página, aqui sempr
     
 <img align="center" alt="HenriqueFrancaa_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="HenriqueFrancaa_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="HenriqueFrancaa_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
 <head><i><h3>
   Ferramentas utilizadas 🛠️🛠
