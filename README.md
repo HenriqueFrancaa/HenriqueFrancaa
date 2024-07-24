@@ -1,9 +1,11 @@
 <head><i><h3>
   Oii, sou Henrique Franca
+<head><i><h3>
+  Seja muito bem vindo!
 </h3></i></head>
 <p>
 
-Sou um estudante de Ciência da Computação e essa é minha página, aqui sempre procuro postar minha evolução nas diferentes linguagens!
+Sou um estudante de Ciência da Computação e atualmente estou no 4⁰ período do curso. Gosto muito de sempre aprender coisas novas, linguagens novas, algoritmos, navegar nesse mundo da tecnologia e registrar tudo aqui. Faço parte do grupo de Programação Competitiva da UNICAP, onde aprendemos algoritmos que vão nos ajudar em resolução de diversos problemas, o que acaba tornando algo fascinante!
 
 <div>
   <a href="https://github.com/HenriqueFrancaa">
@@ -17,8 +19,8 @@ Sou um estudante de Ciência da Computação e essa é minha página, aqui sempr
 </h3></i></head>
 <p>
     
-<img align="center" alt="HenriqueFrancaa_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="HenriqueFrancaa_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="HenriqueFrancaa_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HenriqueFrancaa_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="HenriqueFrancaa_Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
 <head><i><h3>
