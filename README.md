@@ -7,12 +7,6 @@
 
 Sou um estudante de Ciência da Computação e atualmente estou no 4⁰ período do curso. Gosto muito de sempre aprender coisas novas, linguagens novas, algoritmos, navegar nesse mundo da tecnologia e registrar tudo aqui. Faço parte do grupo de Programação Competitiva da UNICAP, onde aprendemos algoritmos que vão nos ajudar em resolução de diversos problemas, o que acaba tornando algo fascinante!
 
-<div style="align">
-  
-  ![image](https://github.com/user-attachments/assets/faa45544-5409-475d-92aa-8a2114e80f87)>
-
-</div>
-
 
 <div>
   <a href="https://github.com/HenriqueFrancaa">
